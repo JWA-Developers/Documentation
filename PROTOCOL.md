@@ -1,3 +1,5 @@
+Buffers are built using RakNet serialization.
+
 ## Protocol structure
 
 Default byte order is Big Endian
